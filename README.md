@@ -6,7 +6,7 @@ U-net convolutional neural network for the analysis of X-ray Photon Fluctuation 
 
 ## Requirements
 
-Please pull the appropriate Docker container.
+For reproducibility we encourage the use of containerization. Please pull the appropriate Docker container.
 
 ```
 docker pull slaclab/slac-ml:20211101.0
@@ -14,7 +14,7 @@ docker pull slaclab/slac-ml:20211101.0
 
 ## Data
 
-All data presented here can be accessed at: 
+All data presented in this repository can be accessed at: 
 
 ```
 https://zenodo.org/record/6643622#.YzIqnuzMKUU
@@ -22,7 +22,7 @@ https://zenodo.org/record/6643622#.YzIqnuzMKUU
 
 ## Usage
 
-First make sure this repo directory is on the PYTHONPATH, e.g. by running:
+Make sure this repo directory is on the PYTHONPATH, e.g. by running:
 ```bash
 $ source shell/add_pwd_to_pythonpath.sh
 ```
