@@ -5,8 +5,8 @@ U-net convolutional neural network for the analysis of X-ray Photon Fluctuation 
 
 Please pull the appropriate Docker container.
 
-```bash
-$ source shell/add_pwd_to_pythonpath.sh
+```
+docker pull slaclab/slac-ml:20211101.0
 ```
 
 ## Data
