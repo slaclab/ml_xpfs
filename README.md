@@ -31,7 +31,7 @@ $ source shell/add_pwd_to_pythonpath.sh
 
 If you find this repository or paper useful, please consider citing the following. 
 
-data:
-paper:
+- data: 10.5281/zenodo.6643621
+- paper: Chitturi, Sathya, et al. "A machine learning photon detection algorithm for coherent X-ray ultrafast fluctuation analysis." Structural Dynamics (2022): (accepted).
 
 
