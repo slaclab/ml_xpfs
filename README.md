@@ -27,5 +27,11 @@ Make sure this repo directory is on the PYTHONPATH, e.g. by running:
 $ source shell/add_pwd_to_pythonpath.sh
 ```
 
-## Contents
+## Citations 
+
+If you find this repository or paper useful, please consider citing the following. 
+
+data:
+paper:
+
 
