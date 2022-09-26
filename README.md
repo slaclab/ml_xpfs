@@ -1,5 +1,5 @@
 # ML_XPFS
-U-net convolutional neural network for the analysis of X-ray Photon Fluctuation Spectroscopy experiments (XPFS). 
+U-net convolutional neural network for the analysis of X-ray Photon Fluctuation Spectroscopy experiments (XPFS). The data and code here corresponds to "A machine learning photon detection algorithm for coherent X-ray ultrafast fluctuation analysis" (Structural Dynamics, 2022). 
 
 ## Requirements
 
