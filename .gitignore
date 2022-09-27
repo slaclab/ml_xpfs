@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# data folder
+
+XFPS_data/
+XPFS_data/*
+XPFS_data.zip
