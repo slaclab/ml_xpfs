@@ -26,7 +26,7 @@ To train models, please place the extracted XPFS_data folder in the main ml_xpfs
 
 Please see relevant jupyter notebooks in the src directory for examples on how to perform training, testining and uncertainty quantification. For models, please see the models folder. 
 
-## Citations 
+## Citation
 
 If you find this repository or paper useful, please consider citing the following. 
 
