@@ -6,7 +6,7 @@ U-net convolutional neural network for the analysis of X-ray Photon Fluctuation 
 
 ## Requirements
 
-For reproducibility we encourage the use of containerization. Please pull the appropriate Docker container.
+Please pull the appropriate Docker container from Docker Hub.
 
 ```
 docker pull slaclab/slac-ml:20211101.0
