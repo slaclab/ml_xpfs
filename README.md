@@ -22,12 +22,9 @@ https://zenodo.org/record/6643622#.YzIqnuzMKUU
 
 To train models, please place the extracted XPFS_data folder in the main ml_xpfs folder. 
 
-## Usage
+## Training, Testing and Uncertainty Quantification 
 
-Make sure this repo directory is on the PYTHONPATH, e.g. by running:
-```bash
-$ source shell/add_pwd_to_pythonpath.sh
-```
+Please see relevant jupyter notebooks in the src directory for examples on how to perform training, testining and uncertainty quantification. For models, please see the models folder. 
 
 ## Citations 
 
