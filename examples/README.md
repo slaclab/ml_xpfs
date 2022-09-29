@@ -1,1 +1,3 @@
-This is a readme for the examples folder. 
+This folder contains code for training the ML model as well as for inference and uncertainty quantification. 
+
+
