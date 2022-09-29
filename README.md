@@ -31,4 +31,4 @@ Please see relevant jupyter notebooks in the src directory for examples on how t
 If you find this repository or paper useful, please consider citing the following. 
 
 - data: 10.5281/zenodo.6643621
-- paper: Chitturi, Sathya R., et al. "A machine learning photon detection algorithm for coherent X-ray ultrafast fluctuation analysis." Structural Dynamics (2022).
+- paper: Chitturi, Sathya R., Nicolas G. Burdet, Youssef Nashed, Daniel Ratner, Aashwin Mishra, T. J. Lane, Matthew Seaberg et al. "A machine learning photon detection algorithm for coherent X-ray ultrafast fluctuation analysis." Structural Dynamics (2022).
