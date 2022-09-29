@@ -20,6 +20,8 @@ All data presented in this repository can be accessed at:
 https://zenodo.org/record/6643622#.YzIqnuzMKUU
 ```
 
+To train models, please place the extracted XPFS_data folder in the main ml_xpfs folder. 
+
 ## Usage
 
 Make sure this repo directory is on the PYTHONPATH, e.g. by running:
